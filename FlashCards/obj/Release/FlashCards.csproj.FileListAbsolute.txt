@@ -1,0 +1,11 @@
+C:\GitHub_Archive\WiXTest\FlashCards\bin\Release\FlashCards.exe.config
+C:\GitHub_Archive\WiXTest\FlashCards\bin\Release\FlashCards.exe
+C:\GitHub_Archive\WiXTest\FlashCards\bin\Release\FlashCards.pdb
+C:\GitHub_Archive\WiXTest\FlashCards\bin\Release\FlashCardsLibrary.dll
+C:\GitHub_Archive\WiXTest\FlashCards\bin\Release\FlashCardsLibrary.pdb
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.csprojResolveAssemblyReference.cache
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.FlashCardsForm.resources
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.UserDialogForm.resources
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.csproj.GenerateResource.Cache
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.exe
+C:\GitHub_Archive\WiXTest\FlashCards\obj\Release\FlashCards.pdb

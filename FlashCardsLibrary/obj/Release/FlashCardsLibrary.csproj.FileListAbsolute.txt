@@ -1,0 +1,5 @@
+C:\GitHub_Archive\WiXTest\FlashCardsLibrary\bin\Release\FlashCardsLibrary.dll
+C:\GitHub_Archive\WiXTest\FlashCardsLibrary\bin\Release\FlashCardsLibrary.pdb
+C:\GitHub_Archive\WiXTest\FlashCardsLibrary\obj\Release\FlashCardsLibrary.csprojResolveAssemblyReference.cache
+C:\GitHub_Archive\WiXTest\FlashCardsLibrary\obj\Release\FlashCardsLibrary.dll
+C:\GitHub_Archive\WiXTest\FlashCardsLibrary\obj\Release\FlashCardsLibrary.pdb

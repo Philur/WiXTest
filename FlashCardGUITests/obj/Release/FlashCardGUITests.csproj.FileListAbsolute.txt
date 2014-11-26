@@ -1,0 +1,9 @@
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCardGUITests.dll
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCardGUITests.pdb
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCards.exe
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCardsLibrary.dll
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCardsLibrary.pdb
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\bin\Release\FlashCards.pdb
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\obj\Release\FlashCardGUITests.csprojResolveAssemblyReference.cache
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\obj\Release\FlashCardGUITests.dll
+C:\GitHub_Archive\WiXTest\FlashCardGUITests\obj\Release\FlashCardGUITests.pdb
